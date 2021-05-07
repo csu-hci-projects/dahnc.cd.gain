@@ -4,3 +4,5 @@
 The purpose of this experiment is to determine optimal CD gain levels. It tests five different levels of gain.
 
 It was developed in Unity Game Engine version 2019.4.19f1.
+
+Fully built projects are available in CD Gain Experiment (PC).zip and CD Gain Experiment (Mac).zip.
