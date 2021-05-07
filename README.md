@@ -5,4 +5,4 @@ The purpose of this experiment is to determine optimal CD gain levels. It tests 
 
 It was developed in Unity Game Engine version 2019.4.19f1.
 
-Fully built projects are available in CD Gain Experiment (PC).zip and CD Gain Experiment (Mac).zip.
+Fully built, ready-to-run variants are available for [Windows](https://github.com/csu-hci-projects/dahnc.cd.gain/blob/main/CD%20Gain%20Experiment%20(PC).zip) and [Mac](https://github.com/csu-hci-projects/dahnc.cd.gain/blob/main/CD%20Gain%20Experiment%20(Mac).zip).
