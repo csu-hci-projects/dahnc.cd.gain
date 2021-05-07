@@ -16,7 +16,7 @@ You will repeat this process 6 times - once for practice (with blue targets), th
 # Upon Completion
 10 text files containing some metrics will be saved to the same directory in which the game is saved. Their names will begin following the format:
 
-0{Number 1-5}CDGain{Keyword Displayed}.
+                                        0{Number 1-5}CDGain{Keyword Displayed}
 
 Please email the following to cory.dahn@rams.colostate.edu:
 * Those 10 files
